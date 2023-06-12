@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm chmod77 </h1>
 <p align="center">Product & Engineering Lead @impact-africa-network</p>
-<h3 align="center">Committed to growth, and helping others grow</h3>
+<h3 align="center">Committed to growth, and helping others grow.</h3>
 <h3>I am proficient in the following:</h3>
 <ol>
   <li>Python</li>
