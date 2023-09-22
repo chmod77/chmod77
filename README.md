@@ -11,6 +11,10 @@
   <li>JavaScript</li>
   <li>React / React Native</li>
   <li>DevOps (AWS)</li>
+  <li> Big (O) Data😊) </li>
+
 </ol>
 
-Currently contributing to a couple of OSS, and messing around with Rustlang.
+Currently leading an Engineering Team,  contributing to a couple of OSS, and messing around with Rustlang.
+
+
